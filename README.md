@@ -1,6 +1,4 @@
 # Syntecxhub_Simple_Calculator
-# Syntecxhub Simple Calculator
-
 ## Project Overview
 
 This project is a **Command-Line Simple Calculator** developed using **Python** as part of the **Syntecxhub Python Internship Program**.
